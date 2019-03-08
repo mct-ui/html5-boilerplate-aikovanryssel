@@ -103,11 +103,11 @@ a{
 }
 a:visited,
 a:active{
-    color: BlueViolet;
+    color: BlueViolet ;
 }
 a:hover,
 a:focus{
-    color: Crimson;
+    color:Crimson ;
 }
 /*
     Media Queries
