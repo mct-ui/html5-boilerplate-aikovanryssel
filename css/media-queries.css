@@ -18,10 +18,6 @@
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-h1{
-    font-size: 58px;
-    line-height: 64px;
-}
 }
 
 /* Large devices (landscape tablets, desktops, 992px and up) */
