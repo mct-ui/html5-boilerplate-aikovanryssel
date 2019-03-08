@@ -101,11 +101,11 @@ a{
     color:RoyalBlue;
     transition: all .1s ease-in-out;
 }
-a:hover,
-a:focus{
-    color: Crimson;
-}
 a:visited,
 a:active{
     color: BlueViolet;
+}
+a:hover,
+a:focus{
+    color: Crimson;
 }
