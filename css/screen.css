@@ -10,6 +10,8 @@ html {
     font-family: "Helvetica Neue", arial, sans-serif;
     color: #111;
     padding: 24px 24px 0;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
     /* top, richts,bottom, left */
     }
 
@@ -20,11 +22,11 @@ html {
  * Customize the background color to match your design.
  */
 
-::-moz-selection {
+/* ::-moz-selection {
     background: #E85E00;
     color: white;
     text-shadow: none;
-}
+}*/
 
 ::selection {
     background: #E85E00;
